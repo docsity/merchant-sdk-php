@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.3.0",
         "ext-curl": "*",
-        "docsity/paypal-sdk-core-php":"v3.4.2"
+        "docsity/paypal-sdk-core-php":"v3.4.3"
     },
     "replace": {
         "paypal/merchant-sdk-php":"*"
